@@ -1,0 +1,5 @@
+Funding_Provider,Asset_Class,Committed_Amount,Historical_Rollover_Rate,Stress_Runoff_Pct
+Sovereign_Block_A,Wholesale_Funding,900000000,0.95,0.40
+Sovereign_Block_B,Wholesale_Funding,600000000,0.90,0.30
+Institutional_Investors,Commercial_Paper,400000000,0.75,0.60
+Central_Bank_Facility,Emergency_Line,300000000,1.00,0.00
