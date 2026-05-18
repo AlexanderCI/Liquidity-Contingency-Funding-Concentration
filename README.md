@@ -5,7 +5,7 @@ Hey guys, this project applies concentration metrics and runoff probability fram
 The model evaluates a structural banking book exposure where an institution is reliant on highly concentrated wholesale funding blocks, and simulates a sudden liquidity crisis where those sources refuse to roll over short-term liabilities.
 
 ### Important notes:
-* Computes a Herfindahl-Hirschman Index (HHI) value to quantify the bank's funding source concentration.
+* It computes a Herfindahl-Hirschman Index (HHI) value to quantify the bank's funding source concentration.
 * Models specific cash runoff percentages across different wholesale funding counterparty types during a market freeze.
-* Compares the aggregated stress cash drain against emergency cash reserves to test if Contingency Funding Plans (CFP) are triggered.
+* It also compares the aggregated stress cash outflow against emergency cash reserves to test if Contingency Funding Plans (CFP) are triggered.
 
